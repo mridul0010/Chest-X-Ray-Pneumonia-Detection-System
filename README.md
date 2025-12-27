@@ -1,5 +1,7 @@
 # Chest-X-Ray-Pneumonia-Detection-System
 
+---
+
 ## 📌 Project Overview
 
 This project focuses on automatic pneumonia detection from chest X-ray images using Deep Learning techniques.
