@@ -109,10 +109,10 @@ A fully interactive Streamlit-based medical AI application was built:
 
 * Cloud model loading using Google Drive
 
-⚠️ ***Disclaimer***
+⚠️ **Disclaimer**
 
-**This application is intended for educational and research purposes only.
-It should not be used as a replacement for professional medical diagnosis.**
+***This application is intended for educational and research purposes only.
+It should not be used as a replacement for professional medical diagnosis.***
 
 ---
 
