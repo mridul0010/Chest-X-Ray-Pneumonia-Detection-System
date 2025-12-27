@@ -18,9 +18,9 @@ A **Streamlit web app** is provided for interactive use — allowing users to in
 Pneumonia is a serious lung infection that can be life-threatening if not diagnosed early.
 Manual X-ray analysis is time-consuming and depends heavily on expert radiologists.
 
-👉 Goal:
+## 👉 Goal:
 
-* Build an AI-based system that can:
+- Build an AI-based system that can:
 
 * Analyze chest X-ray images
 
