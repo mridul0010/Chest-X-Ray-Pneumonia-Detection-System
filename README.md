@@ -156,7 +156,9 @@ https://chest-x-ray-pneumonia-detection-system.streamlit.app/
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79d8bf36-3817-4c41-ac7a-b04da58f6618" />
 
+
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/9e1232b4-2bd1-4a9d-aa26-fd234c6574cd" />
+
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a25a9e36-76fa-41c4-af79-1677800783c3" />
 
