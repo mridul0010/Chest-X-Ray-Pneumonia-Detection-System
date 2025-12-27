@@ -1,6 +1,5 @@
 # Chest-X-Ray-Pneumonia-Detection-System
 
----
 
 ## 📌 Project Overview
 
