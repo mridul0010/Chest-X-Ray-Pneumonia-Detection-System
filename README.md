@@ -33,9 +33,13 @@ Manual X-ray analysis is time-consuming and depends heavily on expert radiologis
 ## 📂 Project Structure
 
 ├── Chest_XRAY_CNN_Project.ipynb   # Model training & experimentation
+
 ├── chest_xray_vgg16_finetuned.h5 # Fine-tuned VGG16 model
+
 ├── app.py                        # Streamlit web application
+
 ├── requirements.txt              # Project dependencies
+
 ├── README.md                     # Project documentation
 
 ---
