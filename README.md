@@ -10,10 +10,6 @@ The final deployed system uses a fine-tuned VGG16 model, achieving ~93% accuracy
 
 ---
 
-A **Streamlit web app** is provided for interactive use — allowing users to input customer details and receive a real-time churn risk assessment.
-
----
-
 ## 🧠 Problem Statement
 
 Pneumonia is a serious lung infection that can be life-threatening if not diagnosed early.
