@@ -1,6 +1,5 @@
 tensorflow==2.20.0
-pandas
-numpy
-matplotlib
 streamlit
-PIL
+numpy
+pillow
+
