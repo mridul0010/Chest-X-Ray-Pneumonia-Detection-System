@@ -15,6 +15,12 @@ The final deployed system uses a fine-tuned VGG16 model, achieving ~93% accuracy
 Pneumonia is a serious lung infection that can be life-threatening if not diagnosed early.
 Manual X-ray analysis is time-consuming and depends heavily on expert radiologists.
 
+---
+## 🧾 Dataset
+```bash
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+```
+
 ## 👉 Goal:
 
 - Build an AI-based system that can:
