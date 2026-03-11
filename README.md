@@ -167,15 +167,17 @@ A fully interactive **Streamlit-based medical AI application** was built with th
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="90%" alt="Application Screenshot 1" src="https://github.com/user-attachments/assets/79d8bf36-3817-4c41-ac7a-b04da58f6618" />
+  <img width="1907" height="1079" alt="image" src="https://github.com/user-attachments/assets/9b46745c-05a1-4d4b-b576-013e92b14f34" />
+
 </p>
 
 <p align="center">
-  <img width="90%" alt="Application Screenshot 2" src="https://github.com/user-attachments/assets/9e1232b4-2bd1-4a9d-aa26-fd234c6574cd" />
+  <img width="1630" height="1008" alt="image" src="https://github.com/user-attachments/assets/9fa4eb60-64ba-4a67-ad58-a423a1c0b38e" />
 </p>
 
 <p align="center">
-  <img width="90%" alt="Application Screenshot 3" src="https://github.com/user-attachments/assets/a25a9e36-76fa-41c4-af79-1677800783c3" />
+  <img width="1575" height="979" alt="image" src="https://github.com/user-attachments/assets/bd4544f1-019b-4b11-aa9f-5d86d5ecf764" />
+
 </p>
 
 ---
