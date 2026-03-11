@@ -166,6 +166,11 @@ A fully interactive **Streamlit-based medical AI application** was built with th
 
 ## 📸 Screenshots
 
+<details>
+<summary>Click to expand dashboard screenshots</summary>
+
+<br>
+
 <p align="center">
   <img width="1907" height="1079" alt="image" src="https://github.com/user-attachments/assets/9b46745c-05a1-4d4b-b576-013e92b14f34" />
 
@@ -179,6 +184,8 @@ A fully interactive **Streamlit-based medical AI application** was built with th
   <img width="1575" height="979" alt="image" src="https://github.com/user-attachments/assets/bd4544f1-019b-4b11-aa9f-5d86d5ecf764" />
 
 </p>
+
+</details>
 
 ---
 
